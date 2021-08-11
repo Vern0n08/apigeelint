@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apigee/apigeelint"
+    "url": "https://github.com/Vern0n08/apigeelint.git"
   },
   "keywords": [
     "API",
@@ -24,7 +24,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/apigee/apigeelint/issues"
+    "url": "https://github.com/Vern0n08/apigeelint.git/issues"
   },
   "private": false,
   "dependencies": {
